@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cashier
+comment1.params=c
+comment1.target=Cashier(double)
+comment2.params=product
+comment2.target=void\ purchase(java.lang.String)
+comment3.params=product
+comment3.target=void\ undo(java.lang.String)
+numComments=4
